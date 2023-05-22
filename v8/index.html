@@ -14,7 +14,7 @@
   <div>
     <label for="color-picker">Color:</label>
     <input type="color" id="color-picker" list="winter-cool">
-    
+
     <datalist id="winter-cool">
       <option value="#FFFFFF">winter cool</option>
       <option value="#F1ED58">winter cool</option>
@@ -46,7 +46,7 @@
       <option value="#FFFAC3">winter cool</option>
     </datalist>
     <input type="radio" name="color-palette" value="option1">
-    
+
 
     <input type="color" id="color-picker2" list="summer-cool">
     <datalist id="summer-cool">
@@ -80,7 +80,7 @@
 
     </datalist>
     <input type="radio" name="color-palette" value="option2">
-    
+
 
 
     <input type="color" id="color-picker3" list="spring-warm">
@@ -158,7 +158,7 @@
     const ctx = canvas.getContext('2d');
     let sticker = null;
 
-    
+
 
     // 웹캠으로부터 비디오 스트림을 가져옵니다.
     navigator.mediaDevices.getUserMedia({ video: true })
@@ -191,7 +191,7 @@
         ctx.drawImage(sticker, x, y, width, height);
       }
       requestAnimationFrame(() => draw(video));
-      
+
     }
 
   colorPicker.addEventListener('input', e => {
@@ -305,7 +305,7 @@ colorPicker4.addEventListener('input', e => {
     } else if(selectedOption === "option2") {
       window.location.href = "summer_result.html";
     } else if(selectedOption === "option3") {
-      window.location.href = "spring_result.html";
+      window.location.href = "spring.html";
     } else if(selectedOption === "option4") {
       window.location.href = "autumn_result.html";
     } else {
