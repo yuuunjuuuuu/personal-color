@@ -1,2 +1,6 @@
-# personal-color
-자가진단 퍼스널컬러 웹페이지
+# Your Own Color
+# 퍼스널 컬러 자가 진단 웹페이지
+
+
+
+
