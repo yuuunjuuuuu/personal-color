@@ -1,4 +1,4 @@
-# YOUROWNCOLOR
+# YOUR OWN COLOR
 # 목차 Index
 #### 1. 배경 및 기획
 #### 2. 기능 & 구현
