@@ -14,6 +14,11 @@
 
 ## 2. 기능 & 구현
 
+![image](https://github.com/yuuunjuuuuu/yourowncolor/assets/108683565/3fa5ba7c-f2ce-428e-bd02-9c69fd2bf659)
+![스크린샷(481)](https://github.com/yuuunjuuuuu/yourowncolor/assets/108683565/890ae7a0-ddcf-4f97-95d3-f4b59eec0822)
+![스크린샷(482)](https://github.com/yuuunjuuuuu/yourowncolor/assets/108683565/f82d0046-d4b6-429e-8c42-f174e98f646e)
+![스크린샷(483)](https://github.com/yuuunjuuuuu/yourowncolor/assets/108683565/d2986ec4-16ee-47d0-83e9-bc1897c5d9d6)
+![스크린샷(484)](https://github.com/yuuunjuuuuu/yourowncolor/assets/108683565/27e6d530-a9cc-42bb-81b3-1f91dcbf12b8)
 
 
 ## 3. 사용자 피드백
@@ -35,7 +40,7 @@ https://github.com/yuuunjuuuuu/yourowncolor/assets/108683565/97a077f2-e822-4671-
   + 시간이 부족한 관계로 디자인적인 부분이 아쉽다.
   + 로그인 기능이나 마이페이지를 구현하지 못한 것이 아쉽다.
 + 확장방안
-  + 헤어, 메이크업, 옷 코디 등 다양한 부분에서 활용가능 하다.
+  + 헤어, 메이크업, 옷 코디 등 다양한 부분에서 활용가능하다.
 
 
 
