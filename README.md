@@ -10,13 +10,24 @@
 
 ## 1. 배경 및 기획
 
+
+
 ## 2. 기능 & 구현
+
+
 
 ## 3. 사용자 피드백
 
+![image](https://github.com/yuuunjuuuuu/yourowncolor/assets/108683565/25d6c47b-c3bb-486e-97e3-2fb36561c32e)
+![image](https://github.com/yuuunjuuuuu/yourowncolor/assets/108683565/c6f25f8f-1c93-4a9d-a683-32b0126e967a)
+![스크린샷(477)](https://github.com/yuuunjuuuuu/yourowncolor/assets/108683565/bc2bc45b-b4f4-43a7-ab72-8b1d5fbe48a2)
+![스크린샷(478)](https://github.com/yuuunjuuuuu/yourowncolor/assets/108683565/c5c2c5fb-a8ca-446c-abfa-15f1cf60ffdb)
+![스크린샷(479)](https://github.com/yuuunjuuuuu/yourowncolor/assets/108683565/06e08434-d2d3-4a57-b619-9aee51ab93a5)
+![스크린샷(480)](https://github.com/yuuunjuuuuu/yourowncolor/assets/108683565/b6faa360-e9c8-42a4-a3d3-b2a6c3b2a537)
+
 ## 4. 시연 영상
 
-https://github.com/yuuunjuuuuu/yourowncolor/assets/108683565/17e78d35-8325-4184-a152-d168d942555f
+https://github.com/yuuunjuuuuu/yourowncolor/assets/108683565/97a077f2-e822-4671-91a6-bc3e88d41bff
 
 ## 5. 한계점 및 확장방안
 
