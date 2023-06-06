@@ -1,4 +1,6 @@
 # YOUR OWN COLOR
+![image](https://github.com/yuuunjuuuuu/yourowncolor/assets/108683565/c7dab9eb-f94e-41c2-83ac-fe19bf810563)
+
 # 목차 Index
 #### 1. 배경 및 기획
 #### 2. 기능 & 구현
