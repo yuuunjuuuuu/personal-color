@@ -30,10 +30,12 @@
 
 ## 3. 사용자 피드백
 
-![image](https://github.com/yuuunjuuuuu/yourowncolor/assets/108683565/25d6c47b-c3bb-486e-97e3-2fb36561c32e)
++ 봄, 여름, 가을, 겨울로만 진단받는 게 아쉬워요 ㅠㅠ 계절별 세부적인 톤이 궁금해요!
+계절별로 2차 진단을 할 수 있으면 좋겠어요
 ![image](https://github.com/yuuunjuuuuu/yourowncolor/assets/108683565/c6f25f8f-1c93-4a9d-a683-32b0126e967a)
 ![스크린샷(477)](https://github.com/yuuunjuuuuu/yourowncolor/assets/108683565/bc2bc45b-b4f4-43a7-ab72-8b1d5fbe48a2)
-![스크린샷(478)](https://github.com/yuuunjuuuuu/yourowncolor/assets/108683565/c5c2c5fb-a8ca-446c-abfa-15f1cf60ffdb)
++ 여러 종류의 팔레트 중 한가지를 골라야하는데 같은 계열의 색상을 비교하기 어려워요!
+같은 계열의 컬러들이 비슷한 위치에 있으면 좋겠어요!
 ![스크린샷(479)](https://github.com/yuuunjuuuuu/yourowncolor/assets/108683565/06e08434-d2d3-4a57-b619-9aee51ab93a5)
 ![스크린샷(480)](https://github.com/yuuunjuuuuu/yourowncolor/assets/108683565/b6faa360-e9c8-42a4-a3d3-b2a6c3b2a537)
 
